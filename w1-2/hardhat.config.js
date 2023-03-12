@@ -21,7 +21,7 @@ module.exports = {
       chainId: 31337,
     },
     goerli: {
-      url: 'https://eth-goerli.g.alchemy.com/v2/a1gKGQT-sc4jGCHmBaKOQhu8_NudKxe5',
+      url: '',
       accounts: {
         mnemonic: mnemonic,
       }
@@ -37,7 +37,7 @@ module.exports = {
   },
   etherscan: {
     apiKey: {
-      polygonMumbai: "W8CRS9MZFZ66GHTMBTAPPZAI3Z6A9XPQQ1"
+      polygonMumbai: ""
     }
 },
 };
